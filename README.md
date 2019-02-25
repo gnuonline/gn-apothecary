@@ -1,26 +1,26 @@
-# genuinelynatural-apothecary
+# <h1>Earth Mother Remedies</h1>
 
-<h1>Product Categories</h1>
+<h2>Product Categories</h2>
         <white-space/>
-  <h2>Aromatherapy</h2>
+  <h3>Aromatherapy</h3>
         <white-space/>
-    <h3>Diffusions</h3>
-    <h3>Lotions & Massage Oils</h3>
-    <h3>Salves & Ointments</h3>
+    <h5>Diffusions</h5>
+    <h5>Lotions & Massage Oils</h5>
+    <h5>Salves & Ointments</h5>
         <white-space/>                
-  <h2>Herbal Remedies</h2>
+  <h3>Herbal Remedies</h3>
         <white-space/>
-    <h3>Tinctures</h3>
-    <h3>Capsules & Teas</h3>
+    <h5>Tinctures</h5>
+    <h5>Capsules & Teas</h5>
         <white-space/>
-  <h2>Flower Essence Therapies</h2>
+  <h3>Flower Essence Therapies</h3>
         <white-space/>
-    <h3>Genuinely Blended</h3>
+    <h5>Genuinely Blended</h5>
         <white-space/>
-  <h2>Pet Lovers</h2>
+  <h3>Pet Lovers</h3>
         <white-space/>
-    <h3>Aromatherapy</h3>
-    <h3>Tinctures</h3>
-    <h3>Topical treatments</h3>
-    <h3>Training Aids</h3>
+    <h5>Aromatherapy</h5>
+    <h5>Tinctures</h5>
+    <h5>Topical treatments</h5>
+    <h5>Training Aids & Flower Essences</h5>
     
